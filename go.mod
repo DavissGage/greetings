@@ -1,3 +1,3 @@
-module github.com/DavissGage
+module greetings
 
 go 1.24.2
